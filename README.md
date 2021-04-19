@@ -1,3 +1,4 @@
+This project has been made on March and April 2020. 
 The project of training the real data set with two different machine learning models. 
 My data set is MAGIC Gamma Telescope Data Set. The number of instances in my data set is 19020. It has 11 attributes. 
 There aren't any missing value. Target value is categoric and feature values are continuous. 
